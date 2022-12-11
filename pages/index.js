@@ -35,6 +35,7 @@ function Home() {
         on edits made to your React components, without ever losing component
         state.
       </p>
+      <h2>또다른 제목이다.</h2>
       <hr className={styles.hr} />
       <div>
         <p>
