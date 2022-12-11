@@ -28,6 +28,7 @@ function Home() {
 
   return (
     <main className={styles.main}>
+      <h3>빠른 리프래쉬 데모</h3>
       <h1>Fast Refresh Demo</h1>
       <p>
         Fast Refresh is a Next.js feature that gives you instantaneous feedback
